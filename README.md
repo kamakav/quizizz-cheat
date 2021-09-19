@@ -28,7 +28,7 @@ An alternative method is more invasive. Instead of fetching Quizizz API, it send
 1. Join quiz, wait for first question, and open console
 2. Paste this code to the console
 ```ts
-fetch("https://raw.githubusercontent.com/gbaranski/quizizz-cheat/oldmethod/dist/bundle.js")
+fetch("https://raw.githubusercontent.com/kamakav/quizizz-cheat/patch-1/dist/bundle.js")
 .then((res) => res.text()
 .then((t) => eval(t)))
 ```
