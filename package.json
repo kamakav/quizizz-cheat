@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gbaranski/quizizz-cheat.git"
+    "url": "git+https://github.com/kamakav/quizizz-cheat.git"
   },
   "author": "gbaranski",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gbaranski/quizizz-cheat/issues"
+    "url": "https://github.com/kamakav/quizizz-cheat/issues"
   },
-  "homepage": "https://github.com/gbaranski/quizizz-cheat#readme",
+  "homepage": "https://github.com/kamakav/quizizz-cheat#readme",
   "devDependencies": {
     "copy-webpack-plugin": "^7.0.0",
     "javascript-obfuscator": "^2.10.3",
